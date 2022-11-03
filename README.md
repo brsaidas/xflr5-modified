@@ -10,4 +10,6 @@ Until then, this problem demanded a lot of repetitive work from the sub-team mem
 
 To solve this problem I modified the software (open-source) so that these values are obtained more efficiently.
 
+Before the modification, all this Ringe Moment data that came out in the output.txt file was taken one by one, for each angle on each surface. By automating the process everything is much easier and faster.
+
 https://user-images.githubusercontent.com/86388642/199782738-f2a9effb-9b8c-45a3-a8fa-0dd73bc403bb.mp4
